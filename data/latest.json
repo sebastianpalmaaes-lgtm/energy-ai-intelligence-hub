@@ -1,32 +1,46 @@
 {
-  "updated_at": "2026-10-13T23:21:26-03:00",
+  "updated_at": "2026-10-14T12:41:52-03:00",
   "timezone": "America/Santiago",
   "method": "Titulares y extractos de Google News RSS; sin resumen generado por IA; sin verificación manual del artículo completo",
   "requested_total": 15,
   "actual_total": 15,
   "counts": {
     "chile": {
-      "found": 48,
+      "found": 50,
       "selected": 4,
       "target": 4
     },
     "global": {
-      "found": 43,
+      "found": 46,
       "selected": 4,
       "target": 4
     },
     "ia": {
-      "found": 54,
+      "found": 60,
       "selected": 5,
       "target": 5
     },
     "geopolitica": {
-      "found": 12,
+      "found": 9,
       "selected": 2,
       "target": 2
     }
   },
   "items": [
+    {
+      "id": "e8391a75c497446d",
+      "category": "chile",
+      "category_label": "Energía Chile",
+      "title": "Atlas presenta en Chile Estepa Solar, con 215 MW solares y 1.672 MWh de almacenamiento",
+      "source": "Review Energy",
+      "published_at": "2026-10-14T09:55:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazJlV1BxcmNRU0ZCWkk0em1hM01md3pXODd1cTVqM0c1d09tMUF5S1drdm9Yb3ZZVFhacWJVZ25qYUJwV1BKRWp5ai1QSWZxQlNySWRRaUQzN1ViWUJkaEFoQVpVdUpXX1lERlNxVWVVSzlNcngxUXNNWUJ0Z1E4MGpxclJHXzk4TTRkam82eXo4dmZLSU5zQzhEQWxSQ2RNU0NlRmhtZlRJYnpJX25kMlc4RTY4U3VNdHhlag?oc=5",
+      "url_type": "Google News (enlace al artículo)",
+      "summary": "Review Energy",
+      "impact": "Seguimiento sugerido: efecto sobre costos marginales, operación del SEN, inversión, regulación o almacenamiento. No se infiere un efecto causal sin contrastar el artículo.",
+      "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
+      "score": 4
+    },
     {
       "id": "9a3e59609060d6af",
       "category": "chile",
@@ -42,46 +56,46 @@
       "score": 4
     },
     {
-      "id": "2bc2c1b611851404",
+      "id": "87f46f938e18559d",
       "category": "chile",
       "category_label": "Energía Chile",
-      "title": "Cartera de proyectos en Perú de generación de energía solar supera los US$ 1,800 millones",
-      "source": "Agencia Andina",
-      "published_at": "2026-10-14T01:18:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGRGV1JNcDBDY3RsUnV5VG56aWlvd0xYQkVCeTFhdWMtVVZsSDhsME9ZTDRfSTZoOXRON0NCMTVZM1F1N0YwTkR5Z0ctaDB5eWFhMm11T19JdTdsTThOY3h5UkJFRFdZYzBCYUNGR2V4TDJNNjg3QjVvb2p0bnVHbzYxLTVlaFQtb29kNDZpdDdpVzdCLVJHa08xWE81UVpka3hGWnFCVmFsZG82QVJ0VE1Dd1dsNjJsNUFr?oc=5",
+      "title": "Asociación Chilena de Data Centers y CNE abordan desafíos energéticos para el desarrollo de la infraestructura digital",
+      "source": "www.cne.cl",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNR2ZNQ2tfeWJoNUhUZXZqWTFTdTlBcmdLbUZUaV81Z3ZrMXJ1bWtjM2xkOG1kbEx0TExmMkJGZGlrLWZTMWF6ZFpHR0twWXg0LXN0UFpuamhEdm9VMEpRN0Nld2ZPMHRvQ0VYQ1pHWkJQUzRmdWV3SzRrUE1KUHpjYy13eFJjTnlsb2ZIUVZyWUZucDlGeVlLcm55ZllqbVM0UXpMY2FlamhjRDlOOUVaUXVzcHFoUFFVRUkyQ0lyWm5haXFPWW15SElFT2M1WXltVU0waHNTX0t6akJUMTFBVGpDemp5WWJuRTNWeFNlV243bEhvYjFQZFJCcVN3a191bGVF?oc=5",
       "url_type": "Google News (enlace al artículo)",
-      "summary": "Agencia Andina",
+      "summary": "www.cne.cl",
+      "impact": "Seguimiento sugerido: efecto sobre costos marginales, operación del SEN, inversión, regulación o almacenamiento. No se infiere un efecto causal sin contrastar el artículo.",
+      "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
+      "score": 4
+    },
+    {
+      "id": "809e793a77cf8172",
+      "category": "chile",
+      "category_label": "Energía Chile",
+      "title": "Coquimbo aprueba proyecto de almacenamiento de energía por US$45 millones en la comuna de Vicuña",
+      "source": "https://logistica360chile.cl/",
+      "published_at": "2026-10-14T14:20:58+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjRhN0ZydWVqUlJiM2RDX2xjQ2FQVXhtZEViU1dZOFlUbkZCY2pOUGlpOGhLSHdxNDJBVUJEdEMxUUxfcjRadGZnNDUySG81czcxN3l2YVBzYkJmcWktMGx4WTA5TlcxOHhiNzVwOUtaa1I3TGJZX3FMTmlZcERQSVFOUEVBQ08tbTZ6QkxBMGh1a2g5YTBjUzgyenZTeTdxRVI5eA?oc=5",
+      "url_type": "Google News (enlace al artículo)",
+      "summary": "https://logistica360chile.cl/",
       "impact": "Seguimiento sugerido: efecto sobre costos marginales, operación del SEN, inversión, regulación o almacenamiento. No se infiere un efecto causal sin contrastar el artículo.",
       "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
       "score": 3
     },
     {
-      "id": "f243daa1ee7fd624",
-      "category": "chile",
-      "category_label": "Energía Chile",
-      "title": "Intensa tormenta que azota Santiago deja a miles de hogares sin energía eléctrica",
-      "source": "BioBioChile",
-      "published_at": "2026-10-13T19:45:57+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMmt4ME5kNFNnbDhmckVHdjRzcl9iWE9iNWRRUVN3Q2xpMDEzM1JoZ2lQbkF0QlpBMG1Ra3Z1c09pVUNxWVNaYmxqWnlPd19POGF2bjNzOUpRVUNWRTRTOHNJRFJYZkxBRUh4R2FGemt3WWRnbU52aUJMWmRXMEN3OUVRcVQwUHJEOWlBR1lCT09nWGZjSkZ1MFF6RDFyMmpaTlRYVGN0MWRHSWpvU0Njb1hwWnFNNldCOGNrNHc0Z0Nia2M4ZU1peC03aFE1bExmQmRLZXZjdU04MDV5TlVDNnhfRjVKS0pBOTBKUGpnYW9ROUtzM2FF?oc=5",
+      "id": "07b9e71c439076f5",
+      "category": "global",
+      "category_label": "Energía internacional",
+      "title": "Global Renewable Energy Investment Hits Record $2 Trillion as Solar and Wind Surge",
+      "source": "Daily Kos",
+      "published_at": "2026-10-14T03:57:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa05feDNIM1NUY2t2a1hMSUxPc24zbEgwLUxtY1NXMjlKRDJ1SHd6ZGxRQk83MkF1ZVkxN2hRLUtJMWluakdabGJsVDVHaHEzS3ZFQ3U5Qk16d0pUVTNTcHctNEpBbWFUUDVUMElvWG9HY2hLVU10YkFwd0tlTThrak0yYmdDbm5Hb2J4OUVXdkR4QkdkNDhPc0xjVHR0MEhReUN3VzlkY3NsRkdyVk13c0dSMHR2eGltQ1dCNWttVi1oa203SWVxVUVCRXdlRHBmXzJjU2VJM3Fzb2lBcDhj?oc=5",
       "url_type": "Google News (enlace al artículo)",
-      "summary": "BioBioChile",
-      "impact": "Seguimiento sugerido: efecto sobre costos marginales, operación del SEN, inversión, regulación o almacenamiento. No se infiere un efecto causal sin contrastar el artículo.",
+      "summary": "Daily Kos",
+      "impact": "Seguimiento sugerido: escalabilidad tecnológica, CAPEX, redes, flexibilidad y posibles implicancias para Chile.",
       "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
-      "score": 3
-    },
-    {
-      "id": "940ebb8d4a26acb1",
-      "category": "chile",
-      "category_label": "Energía Chile",
-      "title": "Centros de datos en Chile: Hitachi Energy ve \"una tracción interesante de proyectos a gran escala\"",
-      "source": "BNamericas",
-      "published_at": "2026-10-13T14:44:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcHpQNWtwOWZPS2E5RlRBa2ltYXFRLTZPU0NLcElNU2FTTW5zMm1aclk5ZGFTNnRGZmpfT2V2S0N5QVMzcTdicmV1LUpNcVNiTDF1anNhaENpVHd4cGE0dFpybV9tdkVqU3BBZW81QndaT08zSmNwUk5SSjFZLUFzU2JNWUdUOXQ0aE1Wdk91em4zaDhDTzI0MW9ob3dWVHJCcXluWG8wb2hQNW9Fckx0MkNvUVYtcEJmd3hSbkxhajJFSXB2cG5zOTVWN1V5aVBwN0Fv?oc=5",
-      "url_type": "Google News (enlace al artículo)",
-      "summary": "BNamericas",
-      "impact": "Seguimiento sugerido: efecto sobre costos marginales, operación del SEN, inversión, regulación o almacenamiento. No se infiere un efecto causal sin contrastar el artículo.",
-      "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
-      "score": 3
+      "score": 4
     },
     {
       "id": "785f9a8beb9e5365",
@@ -126,18 +140,32 @@
       "score": 4
     },
     {
-      "id": "a31342db959b3c0b",
-      "category": "global",
-      "category_label": "Energía internacional",
-      "title": "Superconducting Magnetic Energy Storage (SMES) Market To 2035: Grid Stability and Renewable Integration Drive Growth - News and Statistics",
-      "source": "IndexBox",
-      "published_at": "2026-10-12T12:36:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaE9nNV9wdlotRXBBYlUzOVl6VmYyN3h1RUpncm40Y0FfVVZLV3NYbElVVXdUOUZONE85bzNaVHFxX2YwVGNveHd5dG9lVVQzT1Y1YkVXQUYzUXV4SnQ3VWZFUUtaMG1MNFVCNGdFak1IclcyelZ0RXpobGI5cVlqU3NTNmpCTktoOEh2UERaSElncXk1bW9lS01IUmJHclB6YTlGRUFYUWpYNmhtbVB6LWtfRG1tM3d6VFpGbDF5eUdhYnVJM3RxcHdFQ19kY2pQd1NHT3pERGNSRFc1OHA4MldNbHJpaEE?oc=5",
+      "id": "9661ae85aeb54c67",
+      "category": "ia",
+      "category_label": "Inteligencia artificial",
+      "title": "Anthropic signs MOU with Singapore to evaluate AI models for safety and security",
+      "source": "Yahoo News Singapore",
+      "published_at": "2026-10-14T08:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObGtCSjhFaklzaHFybVVNR1pMR0FLOXFDQnFIRExkeWNIUGw4ODdLeXFVZ0dfeDBXVnBGYWJCVXppak1uV2JWSHNxaHREMGFvQ1pfRFNzaHNxTmM4UzBod3FxYlQ2ZGlCYXFFUkNsdF9manJtS2FTYm5ucDZQU2NOMU9ETFFyQQ?oc=5",
       "url_type": "Google News (enlace al artículo)",
-      "summary": "IndexBox",
-      "impact": "Seguimiento sugerido: escalabilidad tecnológica, CAPEX, redes, flexibilidad y posibles implicancias para Chile.",
+      "summary": "Yahoo News Singapore",
+      "impact": "Seguimiento sugerido: capacidades técnicas, automatización, costos computacionales, consumo eléctrico y aplicaciones al sector energético.",
       "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
-      "score": 4
+      "score": 3
+    },
+    {
+      "id": "bea30581c03eb1ac",
+      "category": "ia",
+      "category_label": "Inteligencia artificial",
+      "title": "US AI data center startups raise $33.5 billion in 2026",
+      "source": "ET Datacenters",
+      "published_at": "2026-10-14T03:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVVN2x1WHNpSnVvVEtlZ0cxM3JTNnFfVkl4cGc0Z09lRlFmUGZhRVVyOFFfVDBlVVBvcENvUzk5YnZUZEYzclpYZFRUaFVYN1JuUmwtSTUzMmQ5TUh3cF9NMFBjUy1DaDNUOHZSanZ3OGVTcHZ4cU9uMDFyQjQzZjMyTnE5SWRLdFpXcHpOR3gxdjNNZUEzOWtMVG9UdDF4RWdpQklKbzZEcGgybV9GbC1VVlNIRGtQQWs5UjFJNjd5TWhZOEh2UHpOOTZKbkx4MFZmbDZ3cDQtQdIB3wFBVV95cUxQWE1ZWjlINW5ROFZianZKR0U3ZEtHandnUU05SDlTN2VsTmpOU29faHZ2SWZNRWN5Zy1PNWhpRE5rZWpETno3MWZtWGlmN3lsWm1Hcl9lMjFfR25peGpBODFPdkxJSWZhV3pLT3hUTXRxR2VHTXhFcnY5X2NKVUpSQXBPZUNCV2EyUFlMN29uM3ZWcTNoZVZhWUNIbDVDU0tONlk5YlJvQXRJRUZHV2tjMmdNSlJ3dFBHZ1lJRjRVWTVSd0YxNDQycFdvQm5mNGxvZkwyaVAzX01SZkQwOTRv?oc=5",
+      "url_type": "Google News (enlace al artículo)",
+      "summary": "ET Datacenters",
+      "impact": "Seguimiento sugerido: capacidades técnicas, automatización, costos computacionales, consumo eléctrico y aplicaciones al sector energético.",
+      "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
+      "score": 3
     },
     {
       "id": "a408d82b0e23b781",
@@ -154,57 +182,29 @@
       "score": 3
     },
     {
-      "id": "fc4dbd165065ffd5",
+      "id": "ab7f4d927c32ceb4",
       "category": "ia",
       "category_label": "Inteligencia artificial",
-      "title": "Google defends Vizag AI data centre amid water concerns",
+      "title": "EU Announces First AI Act Enforcement Actions After AI Agent Incidents",
+      "source": "Unite.AI",
+      "published_at": "2026-10-14T12:55:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2dOazNmSjloN2w0TkRIWkdvQW1EV2RpZ1J6RnJkQ1d5cjBpX2U5ZE8wM0lVUk9SRG9maVk4cTlyUFg3ZlJQUWNHNXQtSk1iT3FRQ3NjTFRDYktmbnl6ZG82bU1ZZ2tWZ2VYVGUySFJ5eUZtRmtPT0xaNmlhNW5qel81dldyRFpOSkw3Vk9SZW5ka3Q3b2Rj?oc=5",
+      "url_type": "Google News (enlace al artículo)",
+      "summary": "Unite.AI",
+      "impact": "Seguimiento sugerido: capacidades técnicas, automatización, costos computacionales, consumo eléctrico y aplicaciones al sector energético.",
+      "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
+      "score": 2
+    },
+    {
+      "id": "c0aa60c892953cc5",
+      "category": "ia",
+      "category_label": "Inteligencia artificial",
+      "title": "Tata Power expands Mumbai grid for AI, data centers",
       "source": "ET Datacenters",
-      "published_at": "2026-10-13T21:13:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaVY3TEw4RUl5bkFMX0dwdW84ak9IeDNOVTRVSjFRcWpqOTRkS19fZ2JDdHNqN3F4TGgteFIzTkw2QmxqMFhtVmJ2eW9LcnNBcDNQOFRiVWZDalFuVlNEQXRubERnTUJDMUpHQVZFa243SGpvY0pTd0p5dGdOUlRZbXJzVnBmTTR4RDZMU3ZybTR5NTdjZzJmNFJGbjg4d2psSHlUTmVXQXJacXNXcF9uX3RRX2NZcGxuVm1GVmswUWk5dWRtV3FfeXJiX3FNLUVJajF1UjhqY20wNmRSdzg1aXlBb9IB5wFBVV95cUxNZzg5WFRWQnhIWHVXZnZWMDJmandQQVVYdmpSdXdpRk45SDRYZHVQVk9VVUJuZ0YxVkxVUnpTQlVWSXp0c0gwZ1oyMThBN3JfS18xMlp6cVZqQktfSXlYb0x2bzBWRG5JbFlBWVhNYlN6RmNSQTBJN1Y3eGN6UDNya3UxbEx5OEFJdGd3LXNPajE3VVFwejJGdHZMWmJBaFBzM1o2UTNNQ0taTmpZN09lcl8wVzhad3JsU1M4UzkwSFRHUGVEMlJNMWduOU1ra3Npbk9jNmdtMmtSTF81TzNNd3cwU0FFN2c?oc=5",
+      "published_at": "2026-10-14T11:59:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQl9wQnVWbTJiT1pvTGkzbklYakxXOGMtVWswMnNYMHJ3d0lvTTlBRmI0N1pIQ3lIRjJoMUtwNzdWX1ptbERGaHNwcUN3SUV4YnR1cW1SeW9WTXdwUGNWTXZzQ0ZuTHFTVEY0Zk9QV3NnZnhYTjJTalhjNVcxM2hlNWk0b3hjUEdDNDIteU81cWh1dVBQcWYzbFFYN0VxNkFrOFR6N01LclJVaFVra2dkOU5UOEdOeGtpNDVqVnh2cEw3ZktSM2FxRkFCNGpTWjRHZGJQMVIxUEkzaEFZYmtJOUNRY3o5MkQzTzRiT1FzRG1WR2k0MHFybjlxOFktaU96OXF6emhSc2RBM3VuenhucjN30gHgAUFVX3lxTFBPU3BrMnFUNEVyVmJmcDBOdHh5TTZNeW12Y0hpMjBoOVpBQllUTDZ5OWhsZ2pWSjB0eFRDOG9iUEU3cGlyQXg1U1d2cmJ6WC1mc3BEcnRhdmxyY3JLbmxxTjhlZk5sT3Q4TXZ1T0FrZlZVRG9ZN1lhXzM2aU1pVU5VamdwT20wRlIxWGw3N3dmeDNoQ0VvUWNrV3k4OW1FUlNoVUZtNnhabjBCXzR3SWJER2I2SnRmbHNIZl9nRVBHTnZuNmZteFpheXViWTFRWFFrS0ZQVzBldW1ZZHkzVHRQ?oc=5",
       "url_type": "Google News (enlace al artículo)",
       "summary": "ET Datacenters",
-      "impact": "Seguimiento sugerido: capacidades técnicas, automatización, costos computacionales, consumo eléctrico y aplicaciones al sector energético.",
-      "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
-      "score": 2
-    },
-    {
-      "id": "933d1e455203385d",
-      "category": "ia",
-      "category_label": "Inteligencia artificial",
-      "title": "Washington Backs Down: UK’s AI Security Institute Regains Early Access to Frontier Models",
-      "source": "eGamers.io",
-      "published_at": "2026-10-13T17:09:28+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONlRvci0tSXA1a1hLM0FscG5EWnFockNOdktXYVlHOVpwR2Jja3Z5bEJpVUFYWWhiVllnMy1UUm50RVpVU2FBQ1RURzFrUzVPdHpvNm9KLXUwQlVUbEFMV1ZuVjlLaGNrRWFDNE8wOUxvX1l1WHVuYncyT3dVYU9zTGNaVHZBbzVhWW5kTDBvSk9CZDZvVmtJX3d0UW43UVhhRVppUUxkV1lJZ0U?oc=5",
-      "url_type": "Google News (enlace al artículo)",
-      "summary": "eGamers.io",
-      "impact": "Seguimiento sugerido: capacidades técnicas, automatización, costos computacionales, consumo eléctrico y aplicaciones al sector energético.",
-      "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
-      "score": 2
-    },
-    {
-      "id": "f2a7653a819460f7",
-      "category": "ia",
-      "category_label": "Inteligencia artificial",
-      "title": "OpenAI ‘not racing to the bottom’ on AI safety, MPs told",
-      "source": "www.lbc.co.uk",
-      "published_at": "2026-10-13T16:54:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iT3ZJU042SGZVcDdTbXcyMFFWZW5yXzJOdDJ3WERhcEVKTEdIeFU2eGtVTG1CUHBrZ1JqWndKVXRuN29nei1fYmlXUy1iYnY4MDZ2YUZKYUtXemEtSy1SekI4YkJOSTh0WFRQaUJPMUVmeEFBaEtUZTlvempzUQ?oc=5",
-      "url_type": "Google News (enlace al artículo)",
-      "summary": "www.lbc.co.uk",
-      "impact": "Seguimiento sugerido: capacidades técnicas, automatización, costos computacionales, consumo eléctrico y aplicaciones al sector energético.",
-      "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
-      "score": 2
-    },
-    {
-      "id": "4849367d3dd03692",
-      "category": "ia",
-      "category_label": "Inteligencia artificial",
-      "title": "The AI Data Center Boom is Creating Emissions from Backup Energy Sources, but the Technology to Clean it up Already Exists",
-      "source": "AZoCleantech",
-      "published_at": "2026-10-13T12:20:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MFgtNk4xdmRNNEc4WkZpY1piUGl6dmlTR2RwUkhCQzNSYkdBZDBlM3ZTZGZkZG9EbmNSYWtaeTNjZlR6SVVFWnE1QXpTNFlHQ051a05UZUEwNmt0N0FvOQ?oc=5",
-      "url_type": "Google News (enlace al artículo)",
-      "summary": "AZoCleantech",
       "impact": "Seguimiento sugerido: capacidades técnicas, automatización, costos computacionales, consumo eléctrico y aplicaciones al sector energético.",
       "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
       "score": 2
@@ -224,18 +224,18 @@
       "score": 2
     },
     {
-      "id": "8c9368e8fc16990f",
+      "id": "2e5990d5db189912",
       "category": "geopolitica",
       "category_label": "Geopolítica",
-      "title": "Oil & Gas Keynote Speaker | Energy Futurist Scott Steinberg",
-      "source": "https://www.futuristsspeakers.com/",
-      "published_at": "2026-10-12T12:48:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEtkOUxHVlhPSDd6ekJvbW0xRXVRd2NnM1duVHVSU0ktYzdBZVJxbS04U2NYX2hWa2pZaHBrUVRKbmFscmJkS1doZ3BDRHp6N0tUeWowcDZ5MjNJUGFPOGNKdDdVUEFMcGlSTzQ4R2JzdEJ5b3lRS1I2eGJMdUZEWTc3VC02YWla?oc=5",
+      "title": "Optimizing the NATO 1.5 percent investment commitment for energy security",
+      "source": "Atlantic Council",
+      "published_at": "2026-10-14T12:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUlRJZl8xelk4aWx4R2dBVXNCTW5ubGhaaFl5NUpjSGtfU0VhR0pSaTVaUFY2OExfajZ3X3l3bm5UOFRacGtZYkxRbmtqRVBZWVJlOTcwT2xOYnVGNHRrcTRrUHBuMmlVUUVZY3BfbDB2dHNidmhVVV9aUU5jVGVBOWJjT0xkSlI3amJQMTFkem5sOG1SbjFmMnRjYVc4UjZJS1J1S2l1SWNZZ1EzSzRaWEo4ektnTEpPUlVpUmJINFR0bkFDSkhaLVJ3Q1ZocENQWERNYTNRdzdINFRo?oc=5",
       "url_type": "Google News (enlace al artículo)",
-      "summary": "https://www.futuristsspeakers.com/",
+      "summary": "Atlantic Council",
       "impact": "Seguimiento sugerido: cadenas de suministro, mercados de combustibles, inversión y seguridad energética.",
       "analysis_type": "Pistas técnicas para investigar, no conclusiones verificadas",
-      "score": 2
+      "score": 1
     }
   ]
 }
